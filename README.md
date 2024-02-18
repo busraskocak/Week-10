@@ -1,0 +1,5 @@
+![Author](https://github.com/busraskocak/Week-10/assets/128819674/d948931a-5323-49cb-8105-d3f0e5ad2ef1)
+![Publisher](https://github.com/busraskocak/Week-10/assets/128819674/7f0b5eb9-73dc-4425-bad7-e5b96f25d94f)
+![Category](https://github.com/busraskocak/Week-10/assets/128819674/1a79c112-90cb-4429-91d5-8ec9d2866261)
+![Borrowing](https://github.com/busraskocak/Week-10/assets/128819674/31852162-2309-4f0b-88e2-4d6bacb1b84e)
+![Book](https://github.com/busraskocak/Week-10/assets/128819674/0f0fa965-0986-47f5-9390-0f97e43982fc)
